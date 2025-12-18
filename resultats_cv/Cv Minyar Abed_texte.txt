@@ -1,0 +1,59 @@
+MINYAR ABED
++216 27 37 36 90 — miniar.elabed01@gmail.com
+Sidi bou ali, sousse
+https://www.linkedin.com/in/miniar-elabed-07056620a/
+EXPE´RIENCE PROFESSIONNELLE
+Stage d’´et´e juillet–aouˆt 2025
+D´eveloppeuse Stagiaire Pixelium
+· R´ealisation d’une application web pour le suivi des stagiaires au sein de l’entreprise :
+Node.js, Next.js, UI Material, Fastify, mongoDB
+Stage de Projet de Fin d’E´tudes Janvier 2023 – Juin 2023
+D´eveloppeuse Stagiaire DS Informatique
+· R´ealisation d’un dashboard web pour les clients d’une enterprise de livraison en utilisant
+PHP - Microsoft server management studio - HTML - CSS - Bootstrap
+· R´ealisation d’une application descktop pour la gestion des commandes, depots et livreurs pour une
+entreprise de livraison en utilisant C# - .Net
+· App Mobile pour le suivis des livreur en utilisant Android Studio
+· Utilisation de Git et Docker pour la gestion de versions et le d´eploiement.
+Stage d’´et´e Juillet 2022 – Aouˆt 2022
+D´eveloppeuse Stagiaire
+· Conception et d´eveloppement d’interfaces web, incluant un formulaire d’inscription, une interface de
+connexion et un tableau de donn´ees, en utilisant HTML, CSS, Bootstrap et WordPress.
+· Impl´ementationdesop´erationsCRUDpourl’interactionentrel’interfacegraphiqueetlabasededonn´ees,
+`a l’aide de PHP, MySQL et XAMPP.
+PROJETS ACADE´MIQUES
+D´eveloppement d’une application Web Full Stack F´evrier – Avril 2025
+Travel Agency Tour Management System
+Syst`eme de gestion des circuits touristiques pour agences de voyages.
+· Technologies : ReactJS, NodeJS, Express, PostgreSQL
+Cloud : Configuration NLB avec IIS via Hyper-V Mai 2025
+Infrastructure r´eseau simul´ee
+Mise en place de la r´epartition de charge (NLB) avec des serveurs IIS virtualis´es.
+· Technologies : Microsoft Server, Hyper-V
+S´ecurit´e r´eseau : Mise en place d’une connexion HTTPS Avril 2025
+G´en´eration de certificats SSL sur un serveur Apache
+Simulation d’une connexion s´ecuris´ee avec surveillance r´eseau.
+· Technologies : Kali Linux, Wireshark
+Machine Learning : Pr´ediction de la situation financi`ere des
+Tunisiens pour l’ann´ee 2030 F´evrier – Avril 2024
+E´tude des habitudes financi`eres des Tunisiens
+Cr´eation d’un dataset personnalis´e, nettoyage des donn´ees et entraˆınement du mod`ele.
+· Technologies : Python, Pandas, Scikit-learn, Feature-engine
+PROJETS PERSONNELS
+Projet entrepreneurial — ToThe Te 06/2023 - pr´esent
+• Cr´eation d’une petite entreprise de vente en ligne, sp´ecialis´ee dans la cr´eation des sacs `a main
+ecologiques avec des designes sp´ecifiques.
+CERTIFICATIONS ET FORMATIONS COMPLE´MENTAIRES
+• Certificate of Competency : Computer Vision for Industrial Inspection
+- NVIDIA F´evrier 2025
+• Certificate of Competency : Fundamentals of Deep Learning - NVIDIA F´evrier 2025
+• Certificate of Competency : Introduction to Python - DataCamp F´evrier 2024
+E´VE´NEMENTS & ACTIVITE´S EXTRA-ACADE´MIQUES
+• Particier `a la compitision ”Nuit d’info” - Isitcom D´ecembre 2023
+• organitation de compitition ”Nuit d’info” - Isitcom Novembre 2022
+• Respensable Ressource Humaine - Isitcom Google Club 2022-2023
+• membre actif `a l’association ”APEC” - Sidi Bou Ali - Sousse 2016-2018
+LANGUES ET CENTRES D’INTE´REˆT
+Langues Centres d’int´erˆet
+Franc¸ais : B2 Sport : fitness et musculation
+Anglais : B2 (professionnel) Randonn´ee et camping

@@ -1,0 +1,35 @@
+def detect_profile_picture(fichier_path, output_dir="photos_profil"):
+    """Détecte et extrait la photo de profil"""
+    os.makedirs(output_dir, exist_ok=True)
+    
+    ext = os.path.splitext(fichier_path)[1].lower()
+    base_name = os.path.splitext(os.path.basename(fichier_path))[0]
+    
+    if ext == ".pdf":
+        pages = convert_from_path(fichier_path)
+        image_path = "temp_page1.jpg"
+        pages[0].save(image_path, "JPEG")
+    else:
+        image_path = fichier_path
+    
+    img = cv2.imread(image_path)
+    if img is None:
+        return None
+    
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    faces = face_cascade.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5, minSize=(80, 80))
+    
+    if len(faces) == 0:
+        return None
+    
+    (x, y, w, h) = faces[0]
+    face_img = img[y:y+h, x:x+w]
+    output_path = os.path.join(output_dir, f"{base_name}_photo.jpg")
+    cv2.imwrite(output_path, face_img)
+    
+    # Nettoyer le fichier temporaire
+    if ext == ".pdf" and os.path.exists("temp_page1.jpg"):
+        os.remove("temp_page1.jpg")
+    
+    return output_path
